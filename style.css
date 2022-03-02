@@ -1,24 +1,30 @@
 .picture{
     border-radius: 10%;
-    box-shadow: 15px 5px 10px rgb(2, 2, 2);
-        
+    box-shadow: 15px 5px 10px rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
 }
-
+.DescriçãoPessoal{
+    margin-left: 50%;
+    margin-right: 50%;
+}
 .header{
-background-color: rgba(90, 160, 137, 0.144);
+background-color: rgba(90, 160, 137, 0);
     box-shadow: 2px 2px 2px;
 }
 
 .phrase{
-    background-color: rgb(166, 173, 169);
-    border-radius: 30%;
+    background-color: rgb(166, 219, 188);
+    border-radius: 7%;
     text-align: center;
     padding: 2px 3px 13px;
-    margin: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 2px 3px 4px;
 }
 
 .backyard{
-    background-color: rgba(24, 121, 108, 0.288);
+    background-color: rgba(24, 121, 108, 0);
 }
 
 body{
@@ -33,6 +39,16 @@ p, ul, ol {
     color: rgb(0, 0, 0);
 }
 
+.container {
+    display: inline-block;
+}
+
+.icons{
+    
+  text-align: center;
+   
+    
+}
 
 /* TEM QUE CRIAR O REPOSITÓRIO NO GIT
     ME MANDA MENSAGEM */
